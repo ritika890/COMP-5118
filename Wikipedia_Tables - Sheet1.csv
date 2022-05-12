@@ -1,0 +1,127 @@
+S.No,Name of Table,Column Names,,Member,Measure ,Root,Other Measures,Missing range,URL
+1,List of largest California cities by land area,"Rank, City, Land Area, Cum Area, Total Area, Population, Poulation Density",,City,Land Area,cities,"Cum Area, Total Area, Population, Population Density",NO,https://en.wikipedia.org/wiki/List_of_largest_California_cities_by_land_area
+2,List of the 100 largest cities and towns in Canada by area,"Rank, Municipality, Province ,Status , Area ",,Municipality,Area,cities,Province,NO,https://en.wikipedia.org/wiki/List_of_the_100_largest_cities_and_towns_in_Canada_by_area
+3,List of city squares by size,"City Square, City, Country, Area, Dimensions; Notes, Year Completed, Photo",,City Square,Area,squares,,YES,https://en.wikipedia.org/wiki/List_of_city_squares_by_size
+4,List of countries and dependencies by area,"Rank, Sovereign State/ dependency, Total in km, water in km, water",,Sovereign State/ dependency,Total in km,countries,,YES,https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area
+5,List of countries and territories by border/area ratio,"Rank, Country or Territory, Total length of land borders (km), Total surface area, Border/ area ratio",,Country or Teritory,Border/ area ratio,countries,,NO,https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_border/area_ratio
+6,List of countries by irrigated land area,"Rank, Country/ Region, Irrigated Land, Date of information",,Country/ Region,Irrigated Land,countries,,NO,https://en.wikipedia.org/wiki/List_of_countries_by_irrigated_land_area
+7,List of largest empires,"Empire, Maximum Land Area",,Empire,Maximum Land Area,empires,,NO,https://en.wikipedia.org/wiki/List_of_largest_empires
+8,List of largest empires in India,"Empire, Approximate Maximum Extent, Size as
+percentage of area of Republic of India, Approximate date of maximum extent, Estimate by",,Empire,Approximate Maximum Extent,empires,,NO,https://en.wikipedia.org/wiki/List_of_largest_empires_in_India
+9,List of European countries by area,"Rank, State, Total area (km2),Notes",,State,Total area (km2),countries,,NO,https://en.wikipedia.org/wiki/List_of_European_countries_by_area
+10,List of cities in India by area,"
+Rank, City, State / UT, Area (km2), Area governed by, Ref",,City,Area,cities,,NO,https://en.wikipedia.org/wiki/List_of_cities_in_India_by_area
+11,List of United States cities by area,"Rank, City, State, Land area (sq mi), Land area (km2), Water area (sq mi), Water area (km2), Total area (sq mi), Total area (km2), Population (2010) 
+",,City,Land Area,cities,"Water area, Total area, Population",NO,https://en.wikipedia.org/wiki/List_of_United_States_cities_by_area
+12,List of Oceanian countries by area,"Rank', 'Country', 'Area (kmÂ²)', 'Notes'",,Country,Area,countries,,NO,https://en.wikipedia.org/wiki/List_of_Oceanian_countries_by_area
+13,List of largest cities by area,"Name ofmetro area', 'Country', 'Total area(km2)', 'Land area(km2)',
+       'Water area(km2)', 'Urban area(km2)', 'Rural area(km2)',
+       'Metropolitan area(km2)', 'Population'",,Country,Total Area,cities,"Land area, Water area, Urban area, Rural area, Metropolitan area, Population",NO,https://en.wikipedia.org/wiki/List_of_largest_cities_by_area
+14,List of U.S. states and territories by area,"State, Rank, Total area, Land area, Water",,State,Total area,states,"Land area, Water ",NO,https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area
+15,List of largest Internet companies,"Rank', 'Company', 'Revenue ($B)', 'F.Y.', 'Employees',
+       'Market cap. ($B)', 'Headquarters', 'Founded', 'Refs'",,Company,Revenue,companies,"Employees, Market capital",NO,https://en.wikipedia.org/wiki/List_of_largest_Internet_companies
+16,List of most-streamed songs on Spotify,"Rank', 'Song', 'Artist(s)', 'Album', 'Streams(millions)',
+       'Date published'",,Song,Streams,songs,Album,NO,https://en.wikipedia.org/wiki/List_of_most-streamed_songs_on_Spotify
+17,List of most-liked tweets,"Rank', 'Tweet', 'Posted by', 'Likes (millions)', 'Date', 'Context'",,Tweet,Likes,tweets,"
+",NO,https://en.wikipedia.org/wiki/List_of_most-liked_tweets
+18,List of most-retweeted tweets,"Rank', 'Tweet', 'Posted by', 'Retweets (millions)', 'Date', 'Context',
+       'Likes (millions)'",,Tweet,Retweets,tweets,Likes,NO,https://en.wikipedia.org/wiki/List_of_most-retweeted_tweets
+19,List of most popular websites,"Site', 'Domain', 'Alexa top 50 global sites(As of April 16, 2020[3]',
+       'SimilarWeb top 50 sites(As of July 2019)[4]', 'Type',
+       'Principal country/territory'",,Site,Alexa top 50 global sites,websites,SimilarWeb top 50 sites,NO,https://en.wikipedia.org/wiki/List_of_most_popular_websites
+20,List of most-liked Instagram posts,"Rank', 'Account name', 'Owner', 'Post description', 'Post',
+       'Likes(millions)', 'Date posted(UTC)'",,Post description,Likes,posts,,NO,https://en.wikipedia.org/wiki/List_of_most-liked_Instagram_posts
+21,List of most-followed Facebook pages,"Rank', 'Account name', 'Followers(millions)', 'Category', 'Country'",,Account name,Followers,pages,,NO,https://en.wikipedia.org/wiki/List_of_most-followed_Facebook_pages
+22,List of most-liked YouTube videos,"Rank', 'Video name', 'Uploader / artist', 'Likes (millions)',
+       'Like percentage', 'Upload date', 'Notes'",,Video name,Likes,videos,,NO,https://en.wikipedia.org/wiki/List_of_most-liked_YouTube_videos
+23,List of most-disliked YouTube videos,"Rank', 'Video name', 'Uploader / artist', 'Dislikes (millions)',
+       'Dislike percentage', 'Upload date', 'Notes'",,Video name,Dislikes,videos,"
+",NO,https://en.wikipedia.org/wiki/List_of_most-disliked_YouTube_videos
+24,List of most-viewed YouTube videos,"#', 'Video name', 'Uploader / artist', 'Views (billions)',
+       'Upload date', 'Note', 'Unnamed: 6'",,Video name,Views,videos,,NO,https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos
+25,List of most-subscribed YouTube channels,"Rank', 'Channel', 'Subscribers[2](millions)', 'Network[A]',
+       'Primarylanguage(s)', 'Contentcategory[2]'",,Channel,Subscribers,channels,,NO,https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels
+26,List of most-followed Twitter accounts,"Rank', 'Change (monthly)', 'Account name', 'Owner',
+       'Followers (millions)', 'Activity', 'Country'",,Owner,Followers,accounts,Account name,NO,https://en.wikipedia.org/wiki/List_of_most-followed_Twitter_accounts
+27,List of most-followed Instagram accounts,"Rank', 'Username', 'Owner', 'Followers(millions)', 'Profession',
+       'Country/Area', 'Brand account'",,Owner,Followers,accounts,Account name,NO,https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts
+28,List of most expensive domain names,"Domain', 'Price', 'Sale date', 'Ref'",,Domain,Price,names,,NO,https://en.wikipedia.org/wiki/List_of_most_expensive_domain_names
+29,List of largest cruise ships,"Rank, Ship name, Cruise line, Year, Grosstonnage, Lengthoverall, Beams, Staterooms, Passenger capacity, Image",,Ship name,Lengthoverall,ships,Grosstonnage,NO,https://en.wikipedia.org/wiki/List_of_largest_cruise_ships
+30,List of oldest cats,,,Name,Reported age,cats,,,https://en.wikipedia.org/wiki/List_of_oldest_cats
+31,List of largest LGBT events,,,City,Organizers' statistics',events,,,https://en.wikipedia.org/wiki/List_of_largest_LGBT_events
+32,Largest fungal fruit bodies,"Species and family', 'Distribution', 'Dimensions', 'Weight',  'Comments'",,Species and family,Dimensions,bodies,,NO,https://en.wikipedia.org/wiki/Largest_fungal_fruit_bodies
+33,List of largest cities in the Arab world,"Rank', 'Country', 'City', 'Population', 'Founding date', 'Image'",,City,Population,cities,,NO,https://en.wikipedia.org/wiki/List_of_largest_cities_in_the_Arab_world
+34,List of largest seeds,"Seed', 'Image', 'Species', 'Family', 'Length in inches',
+       'Length in cm', 'Weight'",,Seed,Length in inches,seeds,,NO,https://en.wikipedia.org/wiki/List_of_largest_seeds
+35,List of oldest trees,"Name', 'Age(years)', 'Species', 'Location', 'Country', 'Notes'",,Name,Age,trees,,NO,https://en.wikipedia.org/wiki/List_of_oldest_trees
+36,List of the oldest newspapers,,,Newspaper,Date,newspapers,,NO,https://en.wikipedia.org/wiki/List_of_the_oldest_newspapers
+37,List of elevation extremes by region,,,Highest point,Elevation span,extremes,,NO,https://en.wikipedia.org/wiki/List_of_elevation_extremes_by_region
+38,List of the largest villages in England,,,Village,Area,villages,,NO,https://en.wikipedia.org/wiki/List_of_the_largest_villages_in_England
+39,List of largest rough diamonds,,,Name,Carets,diamonds,,NO,https://en.wikipedia.org/wiki/List_of_largest_rough_diamonds
+40,List of dictionaries by number of words,,,Language,Approx. no. of words,dictionaries,,NO,https://en.wikipedia.org/wiki/List_of_dictionaries_by_number_of_words
+41,List of domesticated animals,,,Species and subspecies,Date,animals,,,https://en.wikipedia.org/wiki/List_of_domesticated_animals
+42,List of most-produced aircraft,,,Name,Number produced,aircraft,,,https://en.wikipedia.org/wiki/List_of_most-produced_aircraft
+43,List of most expensive cars sold at auction,,,Car,Original price,cars,,,https://en.wikipedia.org/wiki/List_of_most_expensive_cars_sold_at_auction
+44,List of heaviest bells,,,Bell,Weight,bells,,,https://en.wikipedia.org/wiki/List_of_heaviest_bells
+45,List of cities in Mexico,,,City,Population,cities,,,https://en.wikipedia.org/wiki/List_of_cities_in_Mexico
+46,List of longest living dogs,,,Name,Age,dogs,,,https://en.wikipedia.org/wiki/List_of_longest_living_dogs
+47,List of fastest computers,,,Computer,Performance,computers,,,https://en.wikipedia.org/wiki/List_of_fastest_computers
+48,List of fastest production motorcycles,,,Make & model,Top speed,motorcycles,"Displacement, Power",,https://en.wikipedia.org/wiki/List_of_fastest_production_motorcycles
+49,List of superlative trees,,,Species,Height,trees,,,https://en.wikipedia.org/wiki/List_of_superlative_trees
+50,List of largest video screens,,,Location,Size,screens,,,https://en.wikipedia.org/wiki/List_of_largest_video_screens
+51,List of largest peaceful gatherings,,,Event,Participant,gatherings,,,https://en.wikipedia.org/wiki/List_of_largest_peaceful_gatherings
+52,List of largest protected areas,,,Name,Size,areas,,,https://en.wikipedia.org/wiki/List_of_largest_protected_areas
+53,List of longest naval ships,,,Name,Length,ships,Displacement,,https://en.wikipedia.org/wiki/List_of_longest_naval_ships
+54,List of the last monarchs in Africa,,,Nation / territory,Rule ceased,monarchs,,,https://en.wikipedia.org/wiki/List_of_the_last_monarchs_in_Africa
+55,List of smallest fish,,,Species,Maximum known standard length,fish,,,https://en.wikipedia.org/wiki/List_of_smallest_fish
+56,List of the last monarchs in Asia,,,Monarch,Rule ceased,monarchs,,,https://en.wikipedia.org/wiki/List_of_the_last_monarchs_in_Asia
+57,List of largest volcanic eruptions,,,Location,,eruptions,,,https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions
+58,List of longest placenames in Ireland,,,English,,placenames,,,https://en.wikipedia.org/wiki/List_of_longest_placenames_in_Ireland
+59,List of longest novels,,,Book title,,novels,,,https://en.wikipedia.org/wiki/List_of_longest_novels
+60,List of wealthiest families,,,Family Name,,families,,,https://en.wikipedia.org/wiki/List_of_wealthiest_families
+61,List of the last monarchs in Oceania,,,Monarch,,monarchs,,,https://en.wikipedia.org/wiki/List_of_the_last_monarchs_in_Oceania
+62,List of largest running events,,,Race Name,,events,,,https://en.wikipedia.org/wiki/List_of_largest_running_events
+63,List of most populous cities in Kazakhstan,,,City/Town,,cities,,,https://en.wikipedia.org/wiki/List_of_most_populous_cities_in_Kazakhstan
+64,List of extreme weather records in Pakistan,,,"
+Temperature °C",,records,,,https://en.wikipedia.org/wiki/List_of_extreme_weather_records_in_Pakistan
+65,List of extreme temperatures in Germany,,,State,,temperatures,,,https://en.wikipedia.org/wiki/List_of_extreme_temperatures_in_Germany
+66,List of extreme temperatures in Italy,,,Region,,temperatures,,,https://en.wikipedia.org/wiki/List_of_extreme_temperatures_in_Italy
+67,List of country subdivisions by area,,,Subdivision name,,subdivisions,,,https://en.wikipedia.org/wiki/List_of_country_subdivisions_by_area
+68,List of longest ships,,,Name,,ships,,,https://en.wikipedia.org/wiki/List_of_longest_ships
+69,List of novels considered the greatest of all time,,,Title,,greatest,,,https://en.wikipedia.org/wiki/List_of_novels_considered_the_greatest_of_all_time
+70,List of country subdivisions by Punjabi speakers,,,Subdivision,,subdivisions,,,https://en.wikipedia.org/wiki/List_of_country_subdivisions_by_Punjabi_speakers
+71,List of wealthiest charitable foundations,,,Organisation / Country / by individual,,foundations,,,https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations
+72,List of continents by population,,,Continent,,continents,,,https://en.wikipedia.org/wiki/List_of_continents_by_population
+73,List of Japanese prefectures by population,,,Prefecteurs,,prefectures,,,https://en.wikipedia.org/wiki/List_of_Japanese_prefectures_by_population
+74,List of religious populations,,,Religion,,populations,,,https://en.wikipedia.org/wiki/List_of_religious_populations
+75,List of Zimbabwean provinces by population,,,Province,,provinces,,,https://en.wikipedia.org/wiki/List_of_Zimbabwean_provinces_by_population
+76,List of U.S. states and territories by historical population,,,Name,,states,,,https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_historical_population
+77,List of Zimbabwean provinces by population,,,Province,,provinces,,,https://en.wikipedia.org/wiki/List_of_Zimbabwean_provinces_by_population
+78,Philippine population by country of citizenship,,,Country,,population,,,https://en.wikipedia.org/wiki/Philippine_population_by_country_of_citizenship
+79,List of Lagos State local government areas by population,,,LGA,,areas,,,https://en.wikipedia.org/wiki/List_of_Lagos_State_local_government_areas_by_population
+80,List of states and territories of the United States by population,,,State,,states,,,https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population
+81,List of Ogun State local government areas by population,,,LGA,,areas,,,https://en.wikipedia.org/wiki/List_of_Ogun_State_local_government_areas_by_population
+82,List of countries by wealth equality,,,Country,,countries,,,https://en.wikipedia.org/wiki/List_of_countries_by_wealth_equality
+83,List of South African provinces by population,,,Province,,provinces,,,https://en.wikipedia.org/wiki/List_of_South_African_provinces_by_population
+84,List of places in South Australia by population,,,Urban centre,,places,,,https://en.wikipedia.org/wiki/List_of_places_in_South_Australia_by_population
+85,List of places in Queensland by population,,,Urban Centre,,places,,,https://en.wikipedia.org/wiki/List_of_places_in_Queensland_by_population
+86,List of largest cities in the Levant region by population,,,City,,cities,,,https://en.wikipedia.org/wiki/List_of_largest_cities_in_the_Levant_region_by_population
+87,List of Premier League highest scoring games,,,Goals scored,,games,,,https://en.wikipedia.org/wiki/List_of_Premier_League_highest_scoring_games
+88,List of Eliteserien highest scoring games,,,Goals scored,,games,,,https://en.wikipedia.org/wiki/List_of_Eliteserien_highest_scoring_games
+89,List of most expensive association football transfers,,,Player,,transfers,,,https://en.wikipedia.org/wiki/List_of_most_expensive_association_football_transfers
+90,List of largest art museums,,,Name,,museums,,,https://en.wikipedia.org/wiki/List_of_largest_art_museums
+91,List of largest domes,,,Name,,domes,,,https://en.wikipedia.org/wiki/List_of_largest_domes
+92,List of long marriages,,,Length of marriage,,marriages,,,https://en.wikipedia.org/wiki/List_of_long_marriages
+93,List of the verified shortest people,,,Name,,people,,,https://en.wikipedia.org/wiki/List_of_the_verified_shortest_people
+94,List of tallest people,,,Name,,people,,,https://en.wikipedia.org/wiki/List_of_tallest_people
+95,List of heaviest people,,,Peak weight,,people,,,https://en.wikipedia.org/wiki/List_of_heaviest_people
+96,List of youngest birth mothers,,,Age of mother,,mothers,,,https://en.wikipedia.org/wiki/List_of_youngest_birth_mothers
+97,List of the youngest mayors in the United States,,,Age at appointment,,mayors,,,https://en.wikipedia.org/wiki/List_of_the_youngest_mayors_in_the_United_States
+98,List of youngest members of the United States Congress,,,Age,,members,,,https://en.wikipedia.org/wiki/List_of_youngest_members_of_the_United_States_Congress
+99,List of youngest state leaders since 1900,,,Age,,leaders,,,https://en.wikipedia.org/wiki/List_of_youngest_state_leaders_since_1900
+100,List of oldest and youngest Academy Award winners and nominees,,,Superlative,,winners,,,https://en.wikipedia.org/wiki/List_of_oldest_and_youngest_Academy_Award_winners_and_nominees
+101,List of oldest church buildings,,,Building,,buildings,,,https://en.wikipedia.org/wiki/List_of_oldest_church_buildings
+102,List of largest lakes of Europe,,,Name,,lakes,,,https://en.wikipedia.org/wiki/List_of_largest_lakes_of_Europe
+103,List of tallest statues,,,Statue,,statues,,,https://en.wikipedia.org/wiki/List_of_tallest_statues
+104,List of youngest killers,,,Age at time of murder(s),,killers,,,https://en.wikipedia.org/wiki/List_of_youngest_killers
+105,List of the youngest mayors in Canada,,,Age,,mayors,,,https://en.wikipedia.org/wiki/List_of_the_youngest_mayors_in_Canada
